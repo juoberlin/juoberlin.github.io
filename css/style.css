@@ -1,6 +1,6 @@
 .inhalt {
     margin-top: 80px;
-    color: white;
+    
 }
 
 .profibild_image {
@@ -91,30 +91,10 @@ h3 {
     color: #47BB4C;
 }
 
-#hintergrund {
-    background-image: url(images/heart-1288420_1280.jpg);
-    background-repeat: no-repeat;
-    background-position: center top;
-    color: black;
-}
-
 .info {
     margin-top: 20px;
 }
 
-#hintergrundS {
-    background-image: url(images/harz.jpg);
-    background-repeat: no-repeat;
-    background-position: center top;
-    color: white;
-}
-
-#hintegrundP {
-    background-image: url(images/drums.png);
-    background-repeat: no-repeat;
-    background-position: center 55px;
-    color: white;
-}
 
 footer {
     margin-top: 20px;
@@ -165,13 +145,4 @@ th {
 
 .Spalte3 {
     width: 60px;
-}
-
-body1 {}
-
-#hinten {
-    color: white;
-    background-image: url(images/euphonium.jpg);
-    background-repeat: no-repeat;
-    background-position: 0px;
 }
