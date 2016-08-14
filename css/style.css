@@ -116,13 +116,6 @@ h3 {
     color: white;
 }
 
-.hintergrundB {
-    background-image: url(images/euphonium.jpg);
-    background-repeat: no-repeat;
-    background-position: 0px;
-    color: white;
-}
-
 footer {
     margin-top: 20px;
     text-align: center;
@@ -172,4 +165,13 @@ th {
 
 .Spalte3 {
     width: 60px;
+}
+
+body1 {}
+
+#hinten {
+    color: white;
+    background-image: url(images/euphonium.jpg);
+    background-repeat: no-repeat;
+    background-position: 0px;
 }
