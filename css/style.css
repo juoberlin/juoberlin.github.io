@@ -102,6 +102,12 @@ footer {
     color: white;
     padding: 15px;
     background-color: #47BB4C;
+    position: fixed;
+     bottom: 0;
+    left: 0;
+    right: 0;
+  
+ 
 }
 
 .Seitenende2 {
@@ -145,4 +151,8 @@ th {
 
 .Spalte3 {
     width: 60px;
+}
+
+.Seitenende {
+    margin-bottom: 80px;
 }
