@@ -87,8 +87,7 @@ input {
 }
 
 h3 {
-    text-align: center;
-    color: #47BB4C;
+    
 }
 
 .info {
@@ -163,4 +162,13 @@ th {
   font-size: 16px;
   font-weight: 300;
   line-height: 1.4;
+}
+
+h2 {
+    
+}
+
+.banner {
+    text-align: center;
+    color: #47BB4C;
 }
