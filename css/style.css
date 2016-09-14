@@ -86,10 +86,6 @@ input {
     padding: 5px;
 }
 
-h3 {
-    
-}
-
 .info {
     margin-top: 20px;
 }
@@ -164,11 +160,12 @@ th {
   line-height: 1.4;
 }
 
-h2 {
-    
-}
 
 .banner {
     text-align: center;
     color: #47BB4C;
+}
+
+table {
+    
 }
