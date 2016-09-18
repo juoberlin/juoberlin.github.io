@@ -173,3 +173,8 @@ table {
 .artikel1 {
     margin-top: 20px;
 }
+
+.white {
+    font-size: 1px;
+    color: white;
+}
